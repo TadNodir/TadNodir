@@ -29,7 +29,7 @@ Welcome to my coding universe! 🚀 I'm a passionate software engineer who loves
 
 ## Let's Connect
 
-- 📬 Drop me a message at [your.email@example.com](mailto:tadnodir99@gmail.com)
+- 📬 Drop me a message at [tadnodir99@gmail.com](mailto:tadnodir99@gmail.com)
 - 💼 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/nodirjon-tadjiev/)
 
 Thanks for stopping by! ✨
