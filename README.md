@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hey there! 👋 I'm Nodir
 
-<!--
-**TadNodir/TadNodir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my coding universe! 🚀 I'm a passionate software engineer who loves turning coffee into code. ☕️
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Exploring the vast world of technology.
+- 💻 Full-stack developer with a focus on web applications.
+- 🚀 Machine Learning and AI enthusiast - check out my latest projects below!
+
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
+## Here are some of my projects. See the whole list on the repositories list
+
+- 🚀 [NN_NumberRecognition](https://github.com/TadNodir/NN_NumberRecognition)
+- 🌟 [EightQueensProblem](https://github.com/TadNodir/EightQueensProblem)
+- 🔥 [TTS_Project](https://github.com/TadNodir/TTS_Project)
+
+## Let's Connect
+
+- 📬 Drop me a message at [your.email@example.com](mailto:tadnodir99@gmail.com)
+- 💼 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/nodirjon-tadjiev/)
+
+Thanks for stopping by! ✨
